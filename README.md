@@ -78,7 +78,6 @@ Me chamo Kaléu Kewin de Paula, estudo programação desde fevereiro de 2024.
     width="50%"
     src="https://github-readme-stats.vercel.app/api?username=Hyakz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
   <img 
     align="left" 
     alt="GitHub Stats" 
