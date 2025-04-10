@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Kaléu Kewin de Paula
+# 👨🏻‍💻 Kaléu Kewin de Paula
 
-**`Desenvolvedor Back-end`**
+**`Desenvolvedor Back-End`**
 
 Me chamo Kaléu Kewin de Paula, estudo programação desde fevereiro de 2024.
 
@@ -48,13 +48,29 @@ Me chamo Kaléu Kewin de Paula, estudo programação desde fevereiro de 2024.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Postgres" 
+    title="Postgres"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+ 
 <br/>
 <br/>
 
 ### 📊 Estatísticas
 
-<p>
+<p>    
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -70,5 +86,4 @@ Me chamo Kaléu Kewin de Paula, estudo programação desde fevereiro de 2024.
     width="38%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyakz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&exclude_repo=Sistema-ERP" 
   />
-
 </p>
