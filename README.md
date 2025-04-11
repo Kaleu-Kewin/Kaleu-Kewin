@@ -4,6 +4,37 @@
 
 Me chamo Kaléu Kewin de Paula, estudo programação desde fevereiro de 2024.
 
+<p align="left">
+  <a href="https://github.com/Hyakz?tab=repositories&sort=stargazers">
+    <img 
+      alt="Total de estrelas" 
+      title="Total de estrelas GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/stars/Hyakz?color=ffe248&style=for-the-badge&labelColor=FFD700&logo=star&label=estrelas"
+    />
+  </a>
+  <a href="https://github.com/Hyakz?tab=followers">
+    <img 
+      alt="Seguidores" 
+      title="Me siga no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/Hyakz?color=3B3B3B&labelColor=181818&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/kaleukewindepaula/" target="_blank">
+    <img 
+      alt="LinkedIn" 
+      title="Conecte-se comigo no LinkedIn" 
+      src="https://img.shields.io/badge/LinkedIn-Conexão-%23236ad3?style=for-the-badge&labelColor=%231155ba&logo=linkedin&logoColor=white" 
+    />
+  </a>
+  <a href="#">
+    <img 
+      alt="Café" 
+      title="Sobrevivendo com café" 
+      src="https://img.shields.io/badge/Caf%C3%A9-100%25%20-%23d2b48c?style=for-the-badge&labelColor=%23432c1c&logo=buymeacoffee&logoColor=white"
+    />
+  </a>
+</p>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
