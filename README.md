@@ -83,6 +83,6 @@ Me chamo Kaléu Kewin de Paula, estudo programação desde fevereiro de 2024.
     alt="GitHub Stats" 
     height="200" 
     width="38%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyakz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10&exclude_repo=Sistema-ERP&title_color=a480c7&text_color=ffffff" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyakz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&exclude_repo=Sistema-ERP&title_color=a480c7&text_color=ffffff" 
   />
 </p>
