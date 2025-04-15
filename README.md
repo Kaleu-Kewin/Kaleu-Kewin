@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Olá, me chamo Kaléu Kewin de Paula e estudo programação desde fevereiro de 2024.
+Olá, me chamo Kaléu Kewin de Paula e estudo programação desde fevereiro de 2024. Trabalho na Aréa desde junho de 2024.
 
 ---
 
@@ -76,13 +76,13 @@ Olá, me chamo Kaléu Kewin de Paula e estudo programação desde fevereiro de 2
     alt="GitHub Stats" 
     height="200"
     width="50%"
-    src="https://github-readme-stats.vercel.app/api?username=Hyakz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&title_color=a480c7&text_color=ffffff" 
+    src="https://github-readme-stats.vercel.app/api?username=Kaleu-Kewin&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&title_color=a480c7&text_color=ffffff" 
   />
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200"
     width="38%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyakz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6&exclude_repo=Sistema-ERP&title_color=a480c7&text_color=ffffff" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaleu-Kewin&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6&exclude_repo=Sistema-ERP&title_color=a480c7&text_color=ffffff" 
   />
 </p>
