@@ -10,14 +10,6 @@ Olá, me chamo Kaléu Kewin de Paula e estudo programação desde fevereiro de 2
 
 <img 
     align="left" 
-    alt="Delphi" 
-    title="Delphi"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/5/55/Delphi_Logo_12.svg" 
-/>
-<img 
-    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -47,6 +39,14 @@ Olá, me chamo Kaléu Kewin de Paula e estudo programação desde fevereiro de 2
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Delphi" 
+    title="Delphi"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/5/55/Delphi_Logo_12.svg" 
 />
 <img 
     align="left" 
