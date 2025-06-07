@@ -33,7 +33,7 @@ Olá! Sou Kaléu Kewin de Paula. Estudo programação desde **fevereiro de 2024*
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaleu-Kewin&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&title_color=a480c7&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaleu-Kewin&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6&exclude_repo=Sistema-ERP&title_color=a480c7&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaleu-Kewin&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&exclude_repo=Sistema-ERP&title_color=a480c7&text_color=ffffff" />
 </div>
 
 ---
