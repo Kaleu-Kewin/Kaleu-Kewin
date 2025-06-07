@@ -38,8 +38,6 @@ Olá! Sou Kaléu Kewin de Paula. Estudo programação desde **fevereiro de 2024*
 
 ---
 
-### 🛠️ Tecnologias em Destaque
-
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Delphi-E30000?style=for-the-badge&logo=delphi&logoColor=white" />  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
