@@ -4,7 +4,7 @@
 
 **`Desenvolvedor de Software`**
 
-Olá! Sou Kaléu Kewin de Paula. Estudo programação desde **fevereiro de 2024** e atuo profissionalmente desde **junho de 2024**. Gosto de criar soluções simples, funcionais e com código limpo. Atualmente, trabalho com desenvolvimento de sistemas ERP e APIs.
+Olá! Sou Kaléu Kewin de Paula. Estudo programação desde **fevereiro de 2024** e atuo profissionalmente desde **junho de 2024**. 
 
 ---
 
