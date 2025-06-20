@@ -33,7 +33,7 @@ Olá! Sou Kaléu Kewin de Paula. Estudo programação desde **fevereiro de 2024*
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaleu-Kewin&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&title_color=a480c7&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaleu-Kewin&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&exclude_repo=Sistema-ERP&title_color=a480c7&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaleu-Kewin&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10&exclude_repo=Sistema-ERP&title_color=a480c7&text_color=ffffff" />
 </div>
 
 ---
@@ -52,7 +52,7 @@ Olá! Sou Kaléu Kewin de Paula. Estudo programação desde **fevereiro de 2024*
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
 </div>
 
 </div>
