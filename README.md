@@ -4,7 +4,7 @@
 
 **`Desenvolvedor de Software`**
 
-Olá! Sou Kaléu Kewin de Paula. Estudo programação desde **fevereiro de 2024** e atuo profissionalmente desde **junho de 2024**. 
+Meu nome é Kaléu Kewin de Paula. Estudo programação desde **fevereiro de 2024** e atuo profissionalmente desde **junho de 2024**. 
 
 ---
 
